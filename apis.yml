@@ -39,7 +39,6 @@ apis:
   - name: TheAudioDB
     description: "Music"
     humanURL: https://www.theaudiodb.com/api_guide.php
-    baseURL: https://www.theaudiodb.com/api_guide.php
     tags:
       - Music
     properties:
